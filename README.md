@@ -1,2 +1,2 @@
- The future place for functional AI
+ The future place for  Generative AI
 ===
